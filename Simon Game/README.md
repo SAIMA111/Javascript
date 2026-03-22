@@ -14,9 +14,6 @@ A memory-based game where the player repeats a sequence of colors that increases
 * User input validation
 * Level progression
 
-### Screenshot
-![Simon Game](Simon%20Game/screenshot.png)
-
 ---
 
 
